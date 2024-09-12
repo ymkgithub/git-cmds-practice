@@ -12,3 +12,4 @@ commit 9
 https://github.com-.-ymkgithub/git-cmds-practice.git
 
 commit 10
+# git blame command checking
